@@ -3,6 +3,11 @@ package com.j8.pract.thread;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
+/**
+ * updated code for update & merge
+ * @author shyam1212
+ *
+ */
 public class FutureDemo {
 
 	public static void main(String[] args) {
